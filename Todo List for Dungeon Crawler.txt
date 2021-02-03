@@ -1,0 +1,15 @@
+Todo List for Dungeon Crawler
+
+[ ] Create Walls
+[ ] Add Enemies
+[ ] Create random Map Generation
+[ ] Apply it with walls
+[ ] Add pathfinding to enemies
+[ ] Add Attack(s)
+[ ] Add Inventory and Weapons
+[ ] Add HP to both Enemies and Player
+[ ] Add Stats to Player
+[ ] Add Game Over State
+[ ] Create Room Generation 
+[ ] Create Random Exit Location
+[ ] Create Multiple Floors
